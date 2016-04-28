@@ -15,6 +15,7 @@ $ sudo apt install virtualbox
 1. <a href="https://www.debian.org/" target="_blank">ここから入手</a>
 1. VirtualBoxに仮想環境を作成
 1. 作成した仮想環境にDebianをインストール
+1. インストール後、シャットダウン
 
 ### ネットワークの設定
 #### ホスト側
@@ -24,7 +25,11 @@ $ sudo apt install virtualbox
 ホストポート 8080 ゲストポート 80  
 1. [設定]-[ネットワーク]  
 「アダプター２」に「ホストオンリーアダプタ」を設定
+1. 仮想環境(Debian)を起動
+
 #### ゲスト側
+1. 仮想環境(Debian)へ接続  
+$ ssh -p 2222 ユーザ名@localhost
 1. 「アダプタ－２」の設定を追加
 	1. rootに移行する  
 	$ su -
