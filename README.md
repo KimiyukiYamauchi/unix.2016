@@ -1,6 +1,11 @@
 # unix.2016
 本リポジトリは「UNIX」の授業にて、補足情報等の共有に使用します
 
+## 評価方法
+
+## 関連リンク
+<a href="http://www.lpi.or.jp/" target="_blank">LPIC</a>
+
 ## 学習環境の設定
 
 ### VirtualBoxのインストール
@@ -38,7 +43,7 @@ $ ssh -p 2222 ユーザ名@localhost
 	::: ここから追加 :::  
 	auto eth1  
 	iface eth1 inet static  
-	address 192.168.33.10  
+	address 192.168.56.10  
 	netmask 255.255.255.0  
 	::: ここまで追加 :::
 1. ネットワークの再起動  
@@ -60,6 +65,11 @@ $ ssh -p 2222 ユーザ名@localhost
 1. 一旦exitし、sshで接続し直す
 
 ### 公開鍵暗号方式でssh接続できるようにする
+
+#### ゲスト側
+1. 公開鍵を保存するディレクトリを作成  
+$ mkdir ~/.ssh
+
 #### ホスト側
 1. 公開鍵の鍵のペア（秘密鍵、公開鍵）を作成  
 $ ssh-keygen
