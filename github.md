@@ -1,7 +1,7 @@
 ## 各自へのGitHubリンク
 
 - <a href="https://github.com/s16001/" target="_blank">許田 重尊(s16001)</a>
-- <a href="https://github.com/s16002/" target="_blank">久志 正悟(s16002</a>
+- <a href="https://github.com/s16002/" target="_blank">久志 正悟(s16002)</a>
 - <a href="https://github.com/s16003/" target="_blank">島添 伸哉(s16003)</a>
 - <a href="https://github.com/s16004/" target="_blank">城間 朝太郎(s16004)</a>
 - <a href="https://github.com/s16005/" target="_blank">鈴木 志優(s16005)</a>
