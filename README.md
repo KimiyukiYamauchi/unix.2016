@@ -13,3 +13,22 @@
 - <a href="http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-DVD-1511.iso" target="_blank">CentOSダウンロード</a>
 - <a href="https://git-scm.com/book/en/v2" target="_blank">Pro Git</a>
 
+## manコマンドのマニュアルの日本語化
+
+- sudo apt install manpages-ja
+
+## vim
+
+### vimの設定
+
+1. vimのインストール
+
+	- sudo apt install vim vim-runtime
+
+1. 設定ファイルの編集(以下のリポジトリを参照)
+
+	- https://github.com/KimiyukiYamauchi/vim_setting
+
+### チュータの起動
+
+- vimtutor
