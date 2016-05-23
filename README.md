@@ -32,3 +32,15 @@
 ### チュータの起動
 
 - vimtutor
+
+## VirtualBoxのインストール
+1. システムのアップデート  
+$ sudo apt update
+1. システムのアップグレード  
+$ sudo apt upgrade
+1. VirtualBoxのインストール  
+$ sudo apt install virtualbox
+
+## GNU Awkのインストール
+
+- sudo apt install gawk
