@@ -36,7 +36,7 @@
 
 ### リンク
 
-- <a href="http://vim-adventures.com/" target="_blank">http://vim-adventures.com/</a>
+- <a href="http://archiva.jp/web/tool/vim_basic.html" target="_blank">Vim 基本操作まとめ</a>
 
 ## VirtualBoxのインストール
 
