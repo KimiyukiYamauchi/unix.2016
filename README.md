@@ -33,6 +33,11 @@
 
 - vimtutor
 
+
+### リンク
+
+- <a href="http://vim-adventures.com/" target="_blank">http://vim-adventures.com/</a>
+
 ## VirtualBoxのインストール
 
 1. システムのアップデート  
