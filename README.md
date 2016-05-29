@@ -38,6 +38,8 @@
 
 - <a href="http://archiva.jp/web/tool/vim_basic.html" target="_blank">Vim 基本操作まとめ</a>
 
+- <a href="http://www.labnol.org/internet/learning-vim-for-beginners/28820/" target="_blank">Learning Vim for Beginners</a>
+
 ## VirtualBoxのインストール
 
 1. システムのアップデート  
