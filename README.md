@@ -12,6 +12,8 @@
 - <a href="http://www.backlog.jp/git-guide/" target="_blank">サルでもわかるGit入門</a>
 - <a href="http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-DVD-1511.iso" target="_blank">CentOSダウンロード</a>
 - <a href="https://git-scm.com/book/en/v2" target="_blank">Pro Git</a>
+- <a href="https://www.git-tower.com/blog/git-cheat-sheet/" target="_blank">GIT CHEAT SHEET</a>
+- <a href="http://qiita.com/sutetotanuki/items/1700343852e863ba63a0" target="_blank">gitコマンドチートシート</a>
 
 ## manコマンドのマニュアルの日本語化
 
