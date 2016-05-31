@@ -32,6 +32,7 @@
 ### チュータの起動
 
 - vimtutor
+- LANG=c vimtutor
 
 
 ### リンク
