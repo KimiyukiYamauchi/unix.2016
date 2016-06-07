@@ -32,8 +32,8 @@
 		1. backup_docs.shファイルを作成
 		1. エディタで開いて、以下の処理を記述
 			1. 各自のドキュメトディレクトリ以下(/home/xxx/Documents)をgzip圧縮&書庫化し、  
-			160607-home.tar.gzファイルに保存
-			1. 160607-home.tar.gzファイルをbackupディレクトリに移動
+			160607-docs.tar.gzファイルに保存
+			1. 160607-docs.tar.gzファイルをbackupディレクトリに移動
 		1. backup_docs.shが正常に動作することを確認
 1. 変更内容をadd/commitする
 1. 各自のGitHUbのリモートリポジトリにpushする
