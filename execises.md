@@ -1,5 +1,27 @@
 ## 演習
 
+### 06/09
+
+1. 以下のリポジトリをcloneする
+	- https://github.com/KimiyukiYamauchi/exe160609
+1. 各自のGitHubに以下のリポジトリを作成
+	- exe160609
+1. ローカルリポジトリに上記で作成したリモートリポジトリを追加(add)
+1. 以下の操作を行う
+	1. 以下の手順でスクリプト(backup_docs.sh)を作成する
+		1. backup_docs.shファイルを作成
+		1. エディタで開いて、以下の処理を記述
+			1. 各自のドキュメトディレクトリ以下(/home/xxx/Documents)をgzip圧縮&書庫化し、  
+			backup_docs.shを実行する際に指定したファイルに保存  
+			(例)$ ./backup_docs.sh test => test.tar.gz
+			1. ファイル名が指定されていない場合は日付よりファイル名を作成  
+			(例)$ ./backup_docs.sh => 160609.tar.gz(2016年6月9日の場合)
+			1. 上記ファイルをbackupディレクトリに移動
+		1. backup_docs.shが正常に動作することを確認
+1. 変更内容をadd/commitする
+1. 各自のGitHUbのリモートリポジトリにpushする
+
+
 ### 06/08
 
 1. 以下のリポジトリをcloneする
