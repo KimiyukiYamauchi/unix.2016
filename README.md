@@ -43,6 +43,14 @@
 
 - <a href="http://www.labnol.org/internet/learning-vim-for-beginners/28820/" target="_blank">Learning Vim for Beginners</a>
 
+## ネットワークの設定
+
+### リンク
+
+- <a href="http://linux-suomi.net/modules/sinyD0/index.php?id=23" target="_blank">インターフェースの設定</a>
+
+- <a href="http://sicklylife.at-ninja.jp/memo/ubuntu1404/gufw.html" target="_blank">ファイアウォール</a>
+
 ## VirtualBoxのインストール
 
 1. システムのアップデート  
