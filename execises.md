@@ -9,10 +9,7 @@
 1. ローカルリポジトリに上記で作成したリモートリポジトリを追加(add)
 1. 以下の操作を行う
 	1. デフォルトゲートウェイへの接続確認の結果をgw-testファイルに保存
-	1. 「www.it-college.ac.jp」までの経路を取得し、it-col_routeファイル  
-	に保存
 	1. 自PCのIPアドレスをmy_pc_addrファイルに保存
-	1. 「www.it-college.ac.jp」のIPアドレスをit-col_addrファイルに保存
 1. 変更内容をadd/commitする
 1. 各自のGitHUbのリモートリポジトリにpushする
 
