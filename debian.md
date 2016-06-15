@@ -34,6 +34,7 @@ $ ssh -p 2222 ユーザ名@localhost
 	::: ここまで追加 :::
 1. ネットワークの再起動  
 \# service networking restart
+
 #### 仮想環境(Debian)への接続方法
 - $ ssh -p 2222 ユーザ名@localhost
 - $ ssh ユーザ名@192.168.56.10
