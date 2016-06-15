@@ -1,13 +1,5 @@
 ## Debianインストール手順(VirtualBox上)
 
-### VirtualBoxのインストール
-1. システムのアップデート  
-$ sudo apt update
-1. システムのアップグレード  
-$ sudo apt upgrade
-1. VirtualBoxのインストール  
-$ sudo apt install virtualbox
-
 ### Debian入手&インストール
 1. <a href="https://www.debian.org/" target="_blank">ここから入手</a>
 1. VirtualBoxに仮想環境を作成
@@ -16,6 +8,8 @@ $ sudo apt install virtualbox
 
 ### ネットワークの設定
 #### ホスト側
+1. [ファイル]-[環境設定]-[ホストオンリーネットワーク]で、  
+新しいホストオンリーネットワークを追加
 1. [設定]-[ネットワーク]-[高度]-[ポートフォワーディング]  
 以下の追加  
 ホストポート 2222 ゲストポート 22  
