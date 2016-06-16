@@ -75,11 +75,11 @@ $ scp .ssh/id_rsa.pub ユーザ名@192.168.56.10:~/.ssh/authorized\_keys
 #### ホスト側
 1. configファイルの編集  
 $ vi ~/.ssh/config  
-::: 以下の追加 :::
-ost debian
-    HostName 192.168.56.10
-    User (ユーザ名)
-    IdentityFile (秘密鍵のパス)
-::: 以上の追加 :::
+::: 以下の追加 :::  
+Host debian  
+    HostName 192.168.56.10  
+    User (ユーザ名)  
+    IdentityFile (秘密鍵のパス)  
+::: 以上の追加 :::  
 1. 以下で接続できればOK  
 $ ssh debian
