@@ -55,7 +55,9 @@ $ sudo apt upgrade
 		?>  
 		::: 以上を追加　:::  
 		1. ブラウザで以下にアクセスし、phpの設定情報が表示されること  
-		http://192.168.33.10/test.php  
+		但し、以下のIPアドレスをプロキシーから除外する必要あり  
+		http://localhost:8080/test.php  
+		http://192.168.56.10/test.php  
 	1. 設定ファイル(php.ini)の編集
 		1. ディレクトリの移動  
 		$ cd /etc/php5/apache2  
