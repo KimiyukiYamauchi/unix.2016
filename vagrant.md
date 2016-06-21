@@ -9,3 +9,4 @@
 <a href="http://www.vagrantbox.es/" target="_blank">vagrantbox.es</a>  
 <a href="https://github.com/KimiyukiYamauchi/wordpress.2015/blob/master/vagrant.command.md" target="_blank">vagrantコマンド一覧</a>  
 VirtualBox用Cenot6.4のBoxファイル: https://dl.dropboxusercontent.com/u/3657281/centos64_ja.box  
+<a href="http://qiita.com/shouta-dev/items/7b8a462504f7d6c91e99" target="_blank">VagrantのかんたんProxy設定</a>
